@@ -1,0 +1,15 @@
+{
+  "name": "jsdoc-sample",
+  "version": "0.1.0",
+  "description": "Sample project for JSDoc usage",
+  "main": "main.js",
+  "dependencies": {
+    "jsdoc": "^3.6.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
